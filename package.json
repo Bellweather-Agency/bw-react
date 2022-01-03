@@ -1,0 +1,30 @@
+{
+  "name": "bw-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bellweather-Agency/bw-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bellweather-Agency/bw-react/issues"
+  },
+  "homepage": "https://github.com/Bellweather-Agency/bw-react#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-intersection-observer": "^8.33.1",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.7",
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^17.0.11",
+    "typescript": "^4.5.4"
+  }
+}
